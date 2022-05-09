@@ -398,11 +398,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/AKAutoFilterBot?startgroup=true') 
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/SMS_Movies_Auto_Filter_Robot?startgroup=true') 
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/+OWmhfzgAZLA1MmQ1'),
-            InlineKeyboardButton('ʀᴇqᴜᴇꜱᴛ',url='https://t.me/+U2UIyBr--RBmODhl')
+            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/sms_moviess'),
+            InlineKeyboardButton('ʀᴇqᴜᴇꜱᴛ',url='https://t.me/+KbMOc3R3hllhODY1')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -427,13 +427,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ꜰᴜɴ', callback_data='fun'),
             InlineKeyboardButton('ꜱᴏɴɢ ', callback_data='song'),
             InlineKeyboardButton('ᴊꜱᴏɴ ', callback_data='json')
-            ],[   
-            InlineKeyboardButton('yᴏᴜᴛᴜʙᴇ ', url='https://youtube.com/channel/UCjKZr0-f0SelNT-4XBO13RQ'),
-            InlineKeyboardButton('ɪɴꜱᴛᴀɢʀᴀᴍ ', url='https://instagram.com/allukishore.official?utm_medium=copy_link'),
-            InlineKeyboardButton('ᴍᴏᴊ ', url='https://mojapp.in/@allukishoreofficial?referrer=SwaOtro-wNI6Tp')
             ],[
-            InlineKeyboardButton('ᴛᴡɪᴛᴛᴇʀ ', url='https://twitter.com/allu_kishore13?t=y2sT0w-vqNzAPnCtNmGi2Q&s=09'),
-            InlineKeyboardButton('ꜰᴀᴄᴇʙᴏᴏᴋ ', url='https://www.facebook.com/profile.php?id=100078341344418')
+            InlineKeyboardButton('ɪɴꜱᴛᴀɢʀᴀᴍ ', url='https://instagram.com/sms_movies?igshid=YmMyMTA2M2Y='),
+            InlineKeyboardButton('Rizzel ', url='https://rizzle.tv/u/fun_with_smile'),
+            InlineKeyboardButton('ᴛᴡɪᴛᴛᴇʀ ', url='https://twitter.com/SMS_Movies?t=ejoq9inQ3KsGcAj7zYRy9Q&s=09')
             ],[
             InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='start')
         ]
