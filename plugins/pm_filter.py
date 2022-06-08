@@ -401,7 +401,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/SMS_Movies_Auto_Filter_Robot?startgroup=true') 
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/sms_moviess'),
+            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/sms_official_channel'),
             InlineKeyboardButton('ʀᴇqᴜᴇꜱᴛ',url='https://t.me/+KbMOc3R3hllhODY1')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
