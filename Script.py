@@ -5,7 +5,7 @@ class script(object):
 
 ⚠️𝙼𝚘𝚛𝚎 𝙷𝚎𝚕𝚙 𝙲𝚑𝚎𝚌𝚔 𝙷𝚎𝚕𝚙 𝙱𝚞𝚝𝚝𝚘𝚗 𝙱𝚎𝚕𝚘𝚠
 
-©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ @sms_moviess
+©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ @SMS_Zone
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
@@ -18,10 +18,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𐌆 ꤌ𐌌 ꤙ꤀𑀱 ꤀ρꤕꤙ ᥉꤀ս꤅ꤍꤕ ρ꤅꤀ʆꤕꤍ𑀱. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/+SuKq6KMnVa4yZTJl"> [ F O O L ] </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/+xboaLi17qnQwYjU9"> [ F O O L ] </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="t.me/sms_moviess">[ B S ]</a>"""
+<a href="t.me/sms_zone">[ B S ]</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
