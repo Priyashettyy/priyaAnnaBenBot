@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/sms_moviess')
+                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/sms_zone')
             ],
             [
                 InlineKeyboardButton('𝙷𝙴𝙻𝙿', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -40,7 +40,7 @@ async def start(client, message):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/SMS_Movies_Auto_Filter_Robot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/sms_moviess'),
+            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/sms_zone'),
             InlineKeyboardButton('ʀᴇqᴜᴇꜱᴛ', url='https://t.me/+KbMOc3R3hllhODY1')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
